@@ -1,8 +1,6 @@
 ## Olá, eu sou o Maurílio Vilela
 - 👀 Estou interessado em python, php, html5, css3, angular, analise de dados, ciência de dados, node.js, nest.js, next.js
 - 🌱 Estou estudando angular, java e springboot
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 <div>
   <a href="https://github.com/maurilio-vilela">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maurilio-vilela&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
