@@ -1,5 +1,5 @@
 ## Olá, eu sou o Maurílio Vilela
-- 👀 Estou interessado em python, php, html5, css3, angular, analise de dados, ciência de dados, node.js, nest.js, next.js
+- 👀 Estou interessado em java, php, html5, css3, angular, analise de dados, ciência de dados, node.js, nest.js, next.js
 - 🌱 Estou estudando angular, java e springboot
 <div>
   <a href="https://github.com/maurilio-vilela">
@@ -7,15 +7,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurilio-vilela&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Maurilio-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Maurilio-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Maurilio-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Maurilio-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Maurilio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Maurilio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Maurilio-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Maurilio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maurilio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Maurilio-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Maurilio-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Maurilio-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Maurilio-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  
+  
 </div>
   
   ##
